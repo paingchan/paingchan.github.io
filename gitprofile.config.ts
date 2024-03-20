@@ -10,15 +10,15 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   base: '/',
-  aboutme: [
+  publications: [
     {
       title: 'About Me',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      FullName: 'Aung Paing Chan',
+      ChineseName: '涂正刚',
+      Born: 'Myanmar',
+      link: 'https://paingchan.github.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Im Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqiao University in Xiamen, China. Im passionate about computer science and dream of working as a software engineer in a major overseas company. I have skills in web development, particularly in UI/UX design, Laravel, and Vue.js, and I enjoy contributing to open-source projects on GitHub',
     },
   ],
   external: {
