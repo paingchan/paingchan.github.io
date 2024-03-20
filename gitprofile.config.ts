@@ -57,23 +57,13 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    linkedin: 'paingchan',
+    twitter: '@paingchan45',
+    facebook: 'paingchan3218',
+    instagram: '@paingchan1',
     stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: 'https://paingchan.github.io',
+    //email: 'arifulalamszn@gmail.com',
   },
   resume: {
     fileUrl:
@@ -83,32 +73,23 @@ const CONFIG = {
     'PHP',
     'Laravel',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Vue.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
     'Tailwind',
+    'Linux',
+    'AWS Lightsail',
+    'Linux VPS'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '继电器e购',
+      position: 'vuejs 前端',
+      from: '2023-09',
+      to: '2023-11',
+      //companyLink: 'https://example.com',
     },
   ],
   certifications: [
@@ -121,16 +102,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: '华侨大学 (China)',
+      degree: '本科',
+      from: '2020',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Mawlamyine University (Myanmar)',
+      degree: 'Bachelor',
+      from: '2018',
+      to: '2022',
     },
   ],
   publications: [
@@ -168,7 +149,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -185,37 +166,6 @@ const CONFIG = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'procyon',
     ],
 
     // Custom theme, applied to `procyon` theme
@@ -232,10 +182,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/paingchan"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >PaingChan</a> and ❤️`,
 
   enablePWA: true,
 };
