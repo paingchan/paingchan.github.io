@@ -124,13 +124,27 @@ const CONFIG = {
       to: '2023-11',
       //companyLink: 'https://example.com',
     },
+    {
+      company: 'ShinShin Online',
+      position: 'Build a POS Software include Warehouse',
+      from: '2020-04',
+      to: '2020-05',
+      //companyLink: 'https://example.com',
+    },
+     {
+      company: 'U Chaw Bicycle Shop',
+      position: 'Build a POS Software include Warehouse',
+      from: 'Currying',
+      //to: '2020-05',
+      //companyLink: 'https://example.com',
+    },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'HSK 2 and 3',
+      body: 'HSK Exam',
+      year: 'March 2018',
+      Score: '300/300',
     },
   ],
   educations: [
