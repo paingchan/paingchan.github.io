@@ -21,28 +21,6 @@ const CONFIG = {
         'Im Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqiao University in Xiamen, China. Im passionate about computer science and dream of working as a software engineer in a major overseas company. I have skills in web development, particularly in UI/UX design, Laravel, and Vue.js, and I enjoy contributing to open-source projects on GitHub',
     },
   ],
-  external: {
-      header: 'My Projects',
-      // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-      ],
-    },
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -61,28 +39,28 @@ const CONFIG = {
         projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-    // external: {
-    //   header: 'My Projects',
-    //   // To hide the `External Projects` section, keep it empty.
-    //   projects: [
-    //     {
-    //       title: 'Project Name',
-    //       description:
-    //         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-    //       imageUrl:
-    //         'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-    //       link: 'https://example.com',
-    //     },
-    //     {
-    //       title: 'Project Name',
-    //       description:
-    //         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-    //       imageUrl:
-    //         'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-    //       link: 'https://example.com',
-    //     },
-    //   ],
-    // },
+    external: {
+      header: 'My Projects',
+      // To hide the `External Projects` section, keep it empty.
+      projects: [
+        {
+          title: 'Ecommerce Website With Admin Panel',
+          description:
+            'This is my First of Big Project for my Sister Online Business',
+          imageUrl:
+            'https://i.ibb.co/VjTxCHD/wepik-export-202403201212303-V1y.png',
+          //link: 'https://example.com',
+        },
+        {
+          title: 'Laravel Filament POS System',
+          description:
+            'This is my Second of Big Project For my Uncle Bicycle Shop',
+          imageUrl:
+            'https://i.ibb.co/VjTxCHD/wepik-export-202403201212303-V1y.png',
+          //link: 'https://example.com',
+        },
+      ],
+    },
   },
   seo: {
     title: 'Portfolio of Ariful Alam',
@@ -142,7 +120,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'HSK 2 and 3',
-      body: 'HSK Exam',
+      body: 'HSK pass certificate',
       year: 'March 2018',
       Score: '300/300',
     },
