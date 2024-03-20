@@ -10,17 +10,7 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   base: '/',
-  publications: [
-    {
-      title: 'About Me',
-      FullName: 'Aung Paing Chan',
-      ChineseName: '涂正刚',
-      Born: 'Myanmar',
-      link: 'https://paingchan.github.com',
-      description:
-        'Im Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqiao University in Xiamen, China. Im passionate about computer science and dream of working as a software engineer in a major overseas company. I have skills in web development, particularly in UI/UX design, Laravel, and Vue.js, and I enjoy contributing to open-source projects on GitHub',
-    },
-  ],
+  
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -137,6 +127,17 @@ const CONFIG = {
       degree: 'Bachelor',
       from: '2018',
       to: '2022',
+    },
+  ],
+  publications: [
+    {
+      title: 'About Me',
+      FullName: 'Aung Paing Chan',
+      ChineseName: '涂正刚',
+      Born: 'Myanmar',
+      link: 'https://paingchan.github.com',
+      description:
+        'Im Paing Chan (涂正刚), a 24-year-old student from Myanmar studying at Huaqiao University in Xiamen, China. Im passionate about computer science and dream of working as a software engineer in a major overseas company. I have skills in web development, particularly in UI/UX design, Laravel, and Vue.js, and I enjoy contributing to open-source projects on GitHub',
     },
   ],
   // publications: [
