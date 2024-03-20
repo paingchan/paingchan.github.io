@@ -113,6 +113,12 @@ const CONFIG = {
       year: 'March 2018',
       Score: '300/300',
     },
+    {
+      name: 'BA BACS50T',
+      body: 'CS50T Understanding Technology',
+      year: 'December 27, 2022',
+      link: 'https://burma.ac/certificates/4c6df6f887c64fcd9f61af64ef6b54f9',
+    },
   ],
   educations: [
     {
