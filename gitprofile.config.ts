@@ -94,7 +94,7 @@ const CONFIG = {
     },
     {
       company: 'ShinShin Online',
-      position: 'Build a POS Software include Warehouse',
+      position: 'Mini E-commerce Website',
       from: '2020-04',
       to: '2020-05',
       //companyLink: 'https://example.com',
