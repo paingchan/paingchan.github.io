@@ -92,19 +92,27 @@ const CONFIG = {
       //companyLink: 'https://example.com',
     },
     {
+      company: 'Nationguards Security & Engineering CO.,LTD',
+      position: 'Company Portfolio Website (Client Project)',
+      from: '2020-05',
+      to: '2020-06',
+      //companyLink: 'https://example.com',
+    },
+    {
       company: 'ShinShin Online',
-      position: 'Mini E-commerce Website',
+      position: 'Mini E-commerce Website (Client Project) ',
       from: '2020-04',
       to: '2020-05',
       //companyLink: 'https://example.com',
     },
      {
       company: 'U Chaw Bicycle Shop',
-      position: 'Build a POS Software include Warehouse',
+      position: 'Build a POS Software include Warehouse (Client Project) ',
       from: 'Currying',
       //to: '2020-05',
       //companyLink: 'https://example.com',
     },
+    
   ],
   certifications: [
     {
@@ -118,6 +126,12 @@ const CONFIG = {
       body: 'CS50T Understanding Technology',
       year: 'December 27, 2022',
       link: 'https://burma.ac/certificates/4c6df6f887c64fcd9f61af64ef6b54f9',
+    },
+    {
+      name: 'Certifical of Accomplishment',
+      body: 'Diploma In English - Beginner Level',
+      year: 'August 2019',
+      //link: 'https://burma.ac/certificates/4c6df6f887c64fcd9f61af64ef6b54f9',
     },
   ],
   educations: [
