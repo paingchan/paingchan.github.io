@@ -85,13 +85,6 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: '继电器e购',
-      position: 'vuejs 前端',
-      from: '2023-09',
-      to: '2023-11',
-      //companyLink: 'https://example.com',
-    },
-    {
       company: 'Nationguards Security & Engineering CO.,LTD',
       position: 'Company Portfolio Website (Client Project)',
       from: '2020-05',
@@ -101,8 +94,15 @@ const CONFIG = {
     {
       company: 'ShinShin Online',
       position: 'Mini E-commerce Website (Client Project) ',
-      from: '2020-04',
-      to: '2020-05',
+      from: '2020-08',
+      to: '2020-10',
+      //companyLink: 'https://example.com',
+    },
+    {
+      company: '继电器e购',
+      position: 'vuejs 前端',
+      from: '2023-07',
+      to: '2023-09',
       //companyLink: 'https://example.com',
     },
      {
