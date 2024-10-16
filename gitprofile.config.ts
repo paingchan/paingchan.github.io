@@ -110,7 +110,7 @@ const CONFIG = {
       position: 'Build a POS Software include Warehouse (Client Project) ',
       from: '2023-09',
       to: '2023-10',
-      //companyLink: 'https://example.com',
+      companyLink: 'https://laravel.com',
     },
     {
       company: 'TahTah Sharing About Thailand',
