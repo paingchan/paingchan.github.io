@@ -108,10 +108,24 @@ const CONFIG = {
      {
       company: 'U Chaw Bicycle Shop',
       position: 'Build a POS Software include Warehouse (Client Project) ',
-      from: 'Currying',
-      //to: '2020-05',
+      from: '2023-09',
+      to: '2023-10',
       //companyLink: 'https://example.com',
     },
+    {
+      company: 'TahTah Sharing About Thailand',
+      position: 'Build a LMS Platform ',
+      from: '2024-05',
+      to: '2024-06',
+      companyLink: 'https://tahtah.org',
+    },
+    // {
+    //   company: 'TahTah Sharing About Thailand',
+    //   position: 'Build a LMS Platform ',
+    //   from: '2024-05',
+    //   to: '2024-06',
+    //   companyLink: 'https://tahtah.org',
+    // },
     
   ],
   certifications: [
